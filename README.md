@@ -17,6 +17,8 @@
 - 💻 Mi Portfolio: 🚧'En Proceso'🚧
 - ⚡ **Aficiones** : 🍕 🎮 🏋️‍♂️ 🥊 ✈️
 
+<br>
+
 <!--Contador Visitas Perfil-->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=manuchidev&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Manuchidev" style="padding-right:20px;" />
@@ -50,11 +52,11 @@
 
 <br>
 
-<h2 align="center">Estadísticas GitHub 📈</h2>
+<h2 align="center">Estadísticas GitHub 📊</h2>
 
 <br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=manuchidev&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![manuchidev GitHub stats](https://github-readme-stats.vercel.app/api?username=manuchidev&theme=algolia)](https://github.com/manuchidev/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manuchidev&theme=algolia)](https://github.com/manuchidev/github-readme-stats) [![manuchidev wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=WinterWolf97&theme=algolia)](https://github.com/WinterWolf97/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=manuchidev&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![manuchidev GitHub stats](https://github-readme-stats.vercel.app/api?username=manuchidev&theme=algolia)](https://github.com/manuchidev/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manuchidev&theme=algolia)](https://github.com/manuchidev/github-readme-stats) 
 
 <br>
 
