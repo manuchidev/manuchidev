@@ -49,27 +49,27 @@
 
 ### Backend 
 <div align="center">  
-  <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" /></a>
+  <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript"/></a>
   <a href="https://www.java.com/es/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/></a> 
-  <a href="https://www.php.net/" target="_blank"><img src="https://img.icons8.com/officel/48/000000/php-logo.png"/>
-  <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-  <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="48" height="48"/>
-  <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>
-  <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
-  <a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a> 
-  <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-  <a href="https://nestjs.com/" target="_blank"><img style="margin: 10px" style="margin: 10px" src="https://img.icons8.com/color/48/000000/nextjs.png" alt="Next.js" /></a>
+  <a href="https://www.php.net/" target="_blank"><img src="https://img.icons8.com/officel/48/000000/php-logo.png"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="48" height="48"/></a>
+  <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" width="48" height="48"/></a>
+  <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" width="48" height="48"/></a>
+  <a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" width="48" height="48"/></a> 
+  <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" width="48" height="48"/></a>  
+  <a href="https://nestjs.com/" target="_blank"><img style="margin: 10px" style="margin: 10px" src="https://img.icons8.com/color/48/000000/nextjs.png" alt="Next.js"/></a>
 </div>
 
 </td><td valign="top" width="33%">
 
 ### Tools  
 <div align="center">  
-  <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+  <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" width="48" height="48"/></a>  
+  <a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png" alt="VSCode"/></a>
+  <a href="https://www.postman.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="48" height="48"/></a>
   <a href="https://www.npmjs.com/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/npm.png"/></a>
-  <a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png" alt="VSCode" /></a>
-  <a href="https://www.postman.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="48" height="48" /></a>
 </div>
 
 </td></tr></table>  
