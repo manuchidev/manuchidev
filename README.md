@@ -48,7 +48,6 @@
 
 <p align="center">
 <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-//<img src="https://img.icons8.com/color/48/000000/postgresql.png" alt="PostgreSQL"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="48" height="48"/>
 </p>
 
