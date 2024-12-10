@@ -12,8 +12,9 @@
 - 🏡'Vivo en **Zamora, España**
 - ⚡ **Aficiones** : 🍕 🏉 🏏 🎥 🚞
 
----
 <br>
+
+---
 
 ## Lenguajes y herramientas 🧑‍💻 :
 
