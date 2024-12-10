@@ -3,7 +3,7 @@
 
 <!--Night Owl image-->
 <div>
-  <img align="right" width="30%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
 
 <br />
@@ -14,7 +14,7 @@
 - 🎓 Desarrollador de Software y Aplicaciones Web
 - 🏢 Actualmente trabajando como **Investigador** en [AIR Institute](https://air-institute.com/)
 - 🏡'Vivo en **Zamora, España**
-- 💻 Mi Portfolio: 🚧'En Proceso'🚧
+- 💻 Mi Portfolio: 🚧 En Proceso 🚧
 - ⚡ **Aficiones** : 🍕 🎮 🏋️‍♂️ 🥊 ✈️
 
 <br>
@@ -34,7 +34,7 @@
 <br>
 
 <p align="center">
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/office/48/000000/ts.png"/> <img src="https://img.icons8.com/color/48/000000/nextjs.png"/>
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/office/48/000000/typescript.png"/> <img src="https://img.icons8.com/color/48/000000/nextjs.png"/>
 </p>
 
 <p align="center">
@@ -42,7 +42,7 @@
 </p>
 
 <p align="center">
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/000000/postgresql.png"/>
+<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/000000/pgsql.png"/>
 </p>
 
 <p align="center">
