@@ -3,7 +3,7 @@
 
 <!--Imagen del Búho-->
 <div style="width: 100%; display: flex; justify-content: flex-end;">
-  <img align="right" max-width="100%" width="30%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+  <img align="right" max-width="100%" width="35%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
 
 <br />
