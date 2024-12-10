@@ -62,7 +62,23 @@
 
 <br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=manuchidev&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![manuchidev GitHub stats](https://github-readme-stats.vercel.app/api?username=manuchidev&theme=algolia)](https://github.com/manuchidev/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manuchidev&theme=algolia)](https://github.com/manuchidev/github-readme-stats) 
+<div style="display: flex; flex-direction: row; justify-content: space-between;">
+  <!-- Cuadros de Streak y GitHub Stats (en horizontal) -->
+  <div style="display: flex; flex-direction: column;">
+    <a href="https://git.io/streak-stats">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=manuchidev&theme=algolia&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+    </a>
+    <a href="https://github.com/manuchidev/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=manuchidev&theme=algolia" alt="GitHub Stats"/>
+    </a>
+  </div>
+
+  <!-- Cuadro de Most Used Languages (en vertical a la derecha) -->
+  <a href="https://github.com/manuchidev/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuchidev&theme=algolia" alt="Top Languages"/>
+  </a>
+</div>
+
 
 <br>
 
