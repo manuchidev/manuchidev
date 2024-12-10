@@ -1,3 +1,6 @@
+<div align="center" width="50">
+    <img alt="wijegoonawardana.com" src="./assets/oh hi there.png" width="300"/>
+</div>
 <h1 align="center">¡Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">! Soy Manuel Chillón </h1>
 
 
@@ -7,13 +10,12 @@
 </div>
 
 ## Sobre mí :
-<p align="left">
 - 🎓 Desarrollador de Software y Aplicaciones Web
 - 🏢 Actualmente trabajando como **Investigador** en [AIR Institute](https://air-institute.com/)
 - 🏡'Vivo en **Zamora, España**
 - ⚡ **Aficiones** : 🍕 🏉 🏏 🎥 🚞
-</p>
 
+---
 <br>
 
 ## Lenguajes y herramientas 🧑‍💻 :
@@ -43,7 +45,7 @@
 <br>
 
 [![@manuchidev](https://img.icons8.com/fluency/48/000000/linkedin.png "@manuchidev")](https://www.linkedin.com/in/manuchidev/) 
-[![@manuelchillon.dev@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@manuelchillon.dev@gmail.com")](manuelchillon.dev@gmail.com)
+[![@manuelchillon.dev@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@manuelchillon.dev@gmail.com")](mailto:manuelchillon.dev@gmail.com)
 
 <br>
 
