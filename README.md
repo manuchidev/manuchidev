@@ -8,9 +8,6 @@
 
 <br />
 
-<!-- Clear float before "Sobre mí" -->
-<div style="clear: both;"></div>
-
 <h1 align="center"> 
 <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Sobre mí </h1>
 
@@ -67,7 +64,6 @@
   <a href="https://www.linkedin.com/in/manuchidev/">
     <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="@manuchidev" title="@manuchidev">
   </a>
-  &nbsp;
   <a href="mailto:manuelchillon.dev@gmail.com">
     <img src="https://img.icons8.com/fluency/48/000000/apple-mail.png" alt="manuelchillon.dev@gmail.com" title="manuelchillon.dev@gmail.com">
   </a>
