@@ -13,11 +13,11 @@
 
 - 🎓 Desarrollador Software y de Aplicaciones Web
 - 🏢 Actualmente trabajando como **Investigador** en [AIR Institute](https://air-institute.com/)
-- 🏡'Vivo en **Zamora, España**
+- 🏡 Vivo en **Zamora, España**
 - 💻 Mi Portfolio: 🚧 En Proceso 🚧
 - ⚡ Aficiones : 🍕 🎮 🏋️‍♂️ 🥊 ✈️
 
-<br><br>
+<br><br><br>
 
 ---
 
