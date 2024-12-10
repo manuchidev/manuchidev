@@ -11,13 +11,13 @@
 <h1 align="left"> Sobre mí 
 <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 
-- 🎓 Desarrollador de Software y Aplicaciones Web
+- 🎓 Desarrollador Software y de Aplicaciones Web
 - 🏢 Actualmente trabajando como **Investigador** en [AIR Institute](https://air-institute.com/)
 - 🏡'Vivo en **Zamora, España**
 - 💻 Mi Portfolio: 🚧 En Proceso 🚧
-- ⚡ **Aficiones** : 🍕 🎮 🏋️‍♂️ 🥊 ✈️
+- ⚡ Aficiones : 🍕 🎮 🏋️‍♂️ 🥊 ✈️
 
-<br>
+<br><br>
 
 ---
 
