@@ -28,7 +28,7 @@
 
 <table><tr><td valign="top" width="33%">
 
-### Frontend  
+<h3 align="center">Frontend</h3>  
 <div align="center">  
   <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" /></a>
   <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" /></a>
