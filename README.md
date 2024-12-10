@@ -42,7 +42,7 @@
   <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap"/></a>
   <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" /></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" /></a>
-  <a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/jquery.png" alt="jQuery"/></a> 
+  <a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/ios-filled/50/0769ad/jquery.png" alt="jQuery"/></a> .
 </div>
 
 </td><td valign="top" width="33%">
@@ -64,11 +64,12 @@
 
 </td><td valign="top" width="33%">
 
-### DevOps  
+### Tools  
 <div align="center">  
-  <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
   <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
   <a href="https://www.npmjs.com/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/npm.png"/></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png" alt="VSCode" /></a>
+  <a href="https://www.postman.com/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/fluency/48/000000/postman-api.png" alt="Postman" /></a>
 </div>
 
 </td></tr></table>  
