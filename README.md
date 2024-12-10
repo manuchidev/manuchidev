@@ -19,9 +19,9 @@
 
 <br>
 
----
-
 <br>
+
+---
 
 <h2 align="center">Lenguajes y herramientas 🧑‍💻</h2>
 <br>
