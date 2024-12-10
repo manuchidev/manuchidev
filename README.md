@@ -8,7 +8,7 @@
 
 <br />
 
-## Sobre mí :
+<h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Sobre mí </h2>
 - 🎓 Desarrollador de Software y Aplicaciones Web
 - 🏢 Actualmente trabajando como **Investigador** en [AIR Institute](https://air-institute.com/)
 - 🏡'Vivo en **Zamora, España**
@@ -24,8 +24,7 @@
 
 <br>
 
-## Lenguajes y herramientas 🧑‍💻 :
-
+<h2 align="center">Lenguajes y herramientas 🧑‍💻</h2>
 <br>
 
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/office/48/000000/ts.png"/> <img src="https://img.icons8.com/color/48/000000/nextjs.png"/>
@@ -38,7 +37,7 @@
 
 <br>
 
-## Estadísticas GitHub 📈 :
+<h2 align="center">Estadísticas GitHub 📈</h2>
 
 <br>
 
@@ -46,7 +45,7 @@
 
 <br>
 
-## Contacta conmigo 📫 :
+<h2 align="center">Contacta conmigo 📫</h2>
 
 <br>
 
