@@ -1,6 +1,5 @@
 <h1 align="center">¡Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">! Soy Manuel Chillón </h1>
 
-
 <!--Night Owl image-->
 <div>
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
@@ -55,16 +54,17 @@
 <img src="https://img.icons8.com/color/48/000000/npm.png"/>
 </p>
 
-
 <br>
 
 <h2 align="center">Estadísticas GitHub 📊</h2>
 
 <br>
 
-<div style="display: flex; flex-direction: row; justify-content: space-between;">
+<!-- Contenedor Flex -->
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+
   <!-- Cuadros de Streak y GitHub Stats (en horizontal) -->
-  <div style="display: flex; flex-direction: column;">
+  <div style="display: flex; flex-direction: column; gap: 20px;">
     <a href="https://git.io/streak-stats">
       <img src="https://github-readme-streak-stats.herokuapp.com?user=manuchidev&theme=algolia&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
     </a>
@@ -78,7 +78,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuchidev&theme=algolia" alt="Top Languages"/>
   </a>
 </div>
-
 
 <br>
 
@@ -95,9 +94,7 @@
   </a>
 </div>
 
-
 <br>
-
 
 ---
 
