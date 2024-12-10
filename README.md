@@ -17,7 +17,9 @@
 - 💻 Mi Portfolio: 🚧 En Proceso 🚧
 - ⚡ Aficiones : 🍕 🎮 🏋️‍♂️ 🥊 ✈️
 
-<br><br><br>
+<br>
+
+<p></p>
 
 ---
 
