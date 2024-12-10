@@ -19,8 +19,7 @@
 
 <br>
 
-<!-- Línea de separación -->
-<div style="width: 100%; margin-top: 20px; border-top: 2px solid black;"></div>
+---
 
 <br>
 
