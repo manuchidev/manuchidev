@@ -8,7 +8,11 @@
 
 <br />
 
-<h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Sobre mí </h1>
+<!-- Clear float before "Sobre mí" -->
+<div style="clear: both;"></div>
+
+<h1 align="center"> 
+<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Sobre mí </h1>
 
 - 🎓 Desarrollador de Software y Aplicaciones Web
 - 🏢 Actualmente trabajando como **Investigador** en [AIR Institute](https://air-institute.com/)
@@ -63,7 +67,7 @@
   <a href="https://www.linkedin.com/in/manuchidev/">
     <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="@manuchidev" title="@manuchidev">
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
   <a href="mailto:manuelchillon.dev@gmail.com">
     <img src="https://img.icons8.com/fluency/48/000000/apple-mail.png" alt="manuelchillon.dev@gmail.com" title="manuelchillon.dev@gmail.com">
   </a>
