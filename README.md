@@ -8,7 +8,7 @@
 
 <br />
 
-<h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Sobre mí </h2>
+<h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Sobre mí </h1>
 - 🎓 Desarrollador de Software y Aplicaciones Web
 - 🏢 Actualmente trabajando como **Investigador** en [AIR Institute](https://air-institute.com/)
 - 🏡'Vivo en **Zamora, España**
@@ -27,6 +27,7 @@
 <h2 align="center">Lenguajes y herramientas 🧑‍💻</h2>
 <br>
 
+<p align="center">
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/office/48/000000/ts.png"/> <img src="https://img.icons8.com/color/48/000000/nextjs.png"/>
 
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/> 
@@ -34,6 +35,7 @@
 <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/000000/postgresql.png"/>
 
 <img src="https://img.icons8.com/color/48/000000/npm.png"/>
+</p>
 
 <br>
 
@@ -49,8 +51,10 @@
 
 <br>
 
+<p align="center">
 [![@manuchidev](https://img.icons8.com/fluency/48/000000/linkedin.png "@manuchidev")](https://www.linkedin.com/in/manuchidev/) 
 [![@manuelchillon.dev@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@manuelchillon.dev@gmail.com")](mailto:manuelchillon.dev@gmail.com)
+</p>
 
 <br>
 
