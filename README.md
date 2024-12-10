@@ -8,8 +8,8 @@
 
 <br />
 
-<h1 align="center"> 
-<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Sobre mí </h1>
+<h1 align="left"> Sobre mí 
+<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 
 - 🎓 Desarrollador de Software y Aplicaciones Web
 - 🏢 Actualmente trabajando como **Investigador** en [AIR Institute](https://air-institute.com/)
@@ -21,6 +21,8 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=manuchidev&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Manuchidev" style="padding-right:20px;" />
 </p>
+
+<br>
 
 ---
 
