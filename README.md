@@ -3,12 +3,13 @@
 
 <!--Night Owl image-->
 <div>
-  <img align="right" width="20%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+  <img align="right" width="30%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
 
 <br />
 
 <h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Sobre mí </h1>
+
 - 🎓 Desarrollador de Software y Aplicaciones Web
 - 🏢 Actualmente trabajando como **Investigador** en [AIR Institute](https://air-institute.com/)
 - 🏡'Vivo en **Zamora, España**
@@ -58,12 +59,16 @@
 
 <br>
 
-<p align="center">
-[![@manuchidev](https://img.icons8.com/fluency/48/000000/linkedin.png "@manuchidev")](https://www.linkedin.com/in/manuchidev/)
-</p>
-<p align="center">
-[![@manuelchillon.dev@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@manuelchillon.dev@gmail.com")](mailto:manuelchillon.dev@gmail.com)
-</p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/manuchidev/">
+    <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="@manuchidev" title="@manuchidev">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:manuelchillon.dev@gmail.com">
+    <img src="https://img.icons8.com/fluency/48/000000/apple-mail.png" alt="manuelchillon.dev@gmail.com" title="manuelchillon.dev@gmail.com">
+  </a>
+</div>
+
 
 <br>
 
