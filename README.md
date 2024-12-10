@@ -6,14 +6,19 @@
   <img align="right" width="30%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
 
+<br />
+
 ## Sobre mí :
 - 🎓 Desarrollador de Software y Aplicaciones Web
 - 🏢 Actualmente trabajando como **Investigador** en [AIR Institute](https://air-institute.com/)
 - 🏡'Vivo en **Zamora, España**
 - 💻 Mi Portfolio: 🚧'En Proceso'🚧
--
--
 - ⚡ **Aficiones** : 🍕 🎮 🏋️‍♂️ 🥊 ✈️
+
+<!--Contador Visitas Perfil-->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=manuchidev&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Manuchidev" style="padding-right:20px;" />
+</p>
 
 ---
 
