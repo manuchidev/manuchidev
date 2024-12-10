@@ -3,7 +3,7 @@
 
 <!--Night Owl image-->
 <div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+  <img align="right" width="35%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
 
 <br />
@@ -14,12 +14,10 @@
 - 🎓 Desarrollador Software y de Aplicaciones Web
 - 🏢 Actualmente trabajando como **Investigador** en [AIR Institute](https://air-institute.com/)
 - 🏡 Vivo en **Zamora, España**
-- 💻 Mi Portfolio: 🚧 En Proceso 🚧
+- 💻 Mi Portfolio: 🚧 En Proceso... 🚧
 - ⚡ Aficiones : 🍕 🎮 🏋️‍♂️ 🥊 ✈️
 
 <br>
-
-<p></p>
 
 ---
 
