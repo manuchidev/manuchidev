@@ -60,24 +60,26 @@
 
 <br>
 
-<!-- Contenedor Flex -->
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
-
-  <!-- Cuadros de Streak y GitHub Stats (en horizontal) -->
-  <div style="display: flex; flex-direction: column; gap: 20px;">
-    <a href="https://git.io/streak-stats">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=manuchidev&theme=algolia&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
-    </a>
-    <a href="https://github.com/manuchidev/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=manuchidev&theme=algolia" alt="GitHub Stats"/>
-    </a>
-  </div>
-
-  <!-- Cuadro de Most Used Languages (en vertical a la derecha) -->
-  <a href="https://github.com/manuchidev/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuchidev&theme=algolia" alt="Top Languages"/>
-  </a>
-</div>
+<!-- Tabla para organizar los cuadros en 2 filas (horizontal y vertical) -->
+<table align="center">
+  <tr>
+    <td> 
+      <a href="https://git.io/streak-stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=manuchidev&theme=algolia&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/manuchidev/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=manuchidev&theme=algolia" alt="GitHub Stats"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/manuchidev/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuchidev&theme=algolia" alt="Top Languages"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br>
 
