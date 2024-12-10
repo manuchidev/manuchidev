@@ -34,15 +34,21 @@
 <br>
 
 <p align="center">
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/?size=100&id=wpZmKzk11AzJ&format=png&color=000000"/> <img src="https://img.icons8.com/color/48/000000/nextjs.png"/>
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" />
+<img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" />
+<img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" />
+<img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" />
+<img src="https://img.icons8.com/color/48/000000/nextjs.png" alt="Next.js" />
 </p>
 
 <p align="center">
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/> 
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> 
+<img src="https://img.icons8.com/officel/48/000000/php-logo.png"/> 
 </p>
 
 <p align="center">
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img src="https://img.icons8.com/?size=100&id=LwQEs9KnDgIo&format=png&color=000000"/>
+<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+<img src="https://img.icons8.com/color/48/000000/postgresql-logo.png"/>
 </p>
 
 <p align="center">
