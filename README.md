@@ -40,7 +40,7 @@
 
 </td><td valign="top" width="33%">
 
-### Backend 
+<h3 align="center">Backend</h3>
 <div align="center">  
   <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript"/></a>
@@ -55,7 +55,7 @@
 
 </td><td valign="top" width="33%">
 
-### Tools  
+<h3 align="center">Tools</h3>
 <div align="center">  
   <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" width="48" height="48"/></a>  
   <a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png" alt="VSCode"/></a>
