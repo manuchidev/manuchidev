@@ -1,8 +1,8 @@
 <h1 align="center">¡Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">! Soy Manuel Chillón </h1>
 
 
-<!-- Contenedor para la imagen del búho -->
-<div style="overflow: hidden; display: flex; justify-content: flex-end; margin-bottom: 10px;">
+<!--Imagen del Búho-->
+<div style="width: 100%; display: flex; justify-content: flex-end;">
   <img align="right" width="35%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
 
@@ -20,7 +20,7 @@
 <br>
 
 <!-- Línea de separación -->
-<hr style="border: none; border-top: 3px solid #000; margin-top: 20px;" />
+<div style="width: 100%; margin-top: 20px; border-top: 2px solid black;"></div>
 
 <br>
 
