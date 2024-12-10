@@ -1,8 +1,8 @@
 <h1 align="center">¡Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">! Soy Manuel Chillón </h1>
 
 
-<!--Night Owl image-->
-<div>
+<!-- Contenedor para la imagen del búho -->
+<div style="overflow: hidden; display: flex; justify-content: flex-end; margin-bottom: 10px;">
   <img align="right" width="35%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
 
@@ -19,7 +19,8 @@
 
 <br>
 
----
+<!-- Línea de separación -->
+<hr style="border: none; border-top: 3px solid #000; margin-top: 20px;" />
 
 <br>
 
@@ -50,7 +51,6 @@
   <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="48" height="48"/></a>
   <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" width="48" height="48"/></a>
   <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" width="48" height="48"/></a>
-  <a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" width="48" height="48"/></a> 
   <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" width="48" height="48"/></a>  
   <a href="https://nestjs.com/" target="_blank"><img style="margin: 10px" style="margin: 10px" src="https://img.icons8.com/color/48/000000/nextjs.png" alt="Next.js"/></a>
 </div>
@@ -62,6 +62,7 @@
   <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" width="48" height="48"/></a>  
   <a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png" alt="VSCode"/></a>
   <a href="https://www.postman.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="48" height="48"/></a>
+  <a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" width="48" height="48"/></a>
   <a href="https://www.npmjs.com/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/npm.png"/></a>
 </div>
 
