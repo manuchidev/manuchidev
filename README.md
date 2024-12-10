@@ -3,7 +3,7 @@
 
 <!--Night Owl image-->
 <div>
-  <img align="right" width="30%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+  <img align="right" width="20%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
 
 <br />
@@ -29,13 +29,20 @@
 
 <p align="center">
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/office/48/000000/ts.png"/> <img src="https://img.icons8.com/color/48/000000/nextjs.png"/>
+</p>
 
+<p align="center">
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/> 
+</p>
 
+<p align="center">
 <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/000000/postgresql.png"/>
+</p>
 
+<p align="center">
 <img src="https://img.icons8.com/color/48/000000/npm.png"/>
 </p>
+
 
 <br>
 
@@ -52,7 +59,9 @@
 <br>
 
 <p align="center">
-[![@manuchidev](https://img.icons8.com/fluency/48/000000/linkedin.png "@manuchidev")](https://www.linkedin.com/in/manuchidev/) 
+[![@manuchidev](https://img.icons8.com/fluency/48/000000/linkedin.png "@manuchidev")](https://www.linkedin.com/in/manuchidev/)
+</p>
+<p align="center">
 [![@manuelchillon.dev@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@manuelchillon.dev@gmail.com")](mailto:manuelchillon.dev@gmail.com)
 </p>
 
