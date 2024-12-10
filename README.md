@@ -2,8 +2,8 @@
 
 
 <!--Imagen del Búho-->
-<div style="width: 100%; display: flex; justify-content: flex-end; align-items: center;">
-  <img align="right" width="33%" height="auto" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+<div style="width: 100%; display: flex; justify-content: flex-end;">
+  <img align="right" width="33%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
 
 <br />
