@@ -68,8 +68,9 @@
   <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
   <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>
   <a href="https://www.npmjs.com/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/npm.png"/></a>
-
 </div>
+
+</td></tr></table>  
 
 <br>
 
