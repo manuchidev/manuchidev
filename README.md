@@ -17,9 +17,7 @@
 - 💻 Mi Portfolio: 🚧 En Proceso... 🚧
 - ⚡ Aficiones : 🍕 🎮 🏋️‍♂️ 🥊 ✈️
 
-<br>
-
-<br>
+<br><br>
 
 ---
 
@@ -73,7 +71,16 @@
 
 <br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=manuchidev&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)[![manuchidev GitHub stats](https://github-readme-stats.vercel.app/api?username=manuchidev&theme=algolia)](https://github.com/manuchidev/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manuchidev&theme=algolia)](https://github.com/manuchidev/github-readme-stats) 
+<!-- Contenedor para las dos primeras imágenes -->
+<p align="center">
+  <img alt="streak" height="200px" src="https://github-readme-streak-stats.herokuapp.com?user=manuchidev&theme=algolia&date_format=M%20j%5B%2C%20Y%5D" />
+  <img alt="my stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=manuchidev&theme=algolia&show_icons=true" />
+</p>
+
+<!-- Imagen de lenguajes más usados -->
+<p align="center">
+  <img alt="top langs" width="47%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuchidev&theme=algolia&layout=compact" />
+</p>
 
 <br>
 
@@ -81,10 +88,10 @@
 
 <br>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/manuchidev/"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="@manuchidev" title="@manuchidev"></a>
-  <a href="mailto:manuelchillon.dev@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/apple-mail.png" alt="manuelchillon.dev@gmail.com" title="manuelchillon.dev@gmail.com"></a>
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/manuchidev/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="@manuchidev" title="@manuchidev"></a>
+  <a href="mailto:manuelchillon.dev@gmail.com" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/apple-mail.png" alt="manuelchillon.dev@gmail.com" title="manuelchillon.dev@gmail.com"></a>
+</p>
 
 
 <br>
