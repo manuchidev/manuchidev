@@ -73,13 +73,9 @@
 
 <br>
 
-<!-- Contenedor para la primera imagen -->
+<!-- Contenedor para la dos primeras imágenes -->
 <p align="center">
   <img alt="streak" width="47%" src="https://github-readme-streak-stats.herokuapp.com?user=manuchidev&theme=algolia&date_format=M%20j%5B%2C%20Y%5D" />
-</p>
-
-<!-- Contenedor para la segunda imagen -->
-<p align="center">
   <img alt="my stats" width="47%" src="https://github-readme-stats.vercel.app/api?username=manuchidev&theme=algolia&show_icons=true" />
 </p>
 
