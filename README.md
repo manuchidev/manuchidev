@@ -1,5 +1,5 @@
 <p align="center" width="300">
-  <img align="center" width="200" src="https://raw.githubusercontent.com/manuchidev/manuchidev/main/resources/img/manu_v1.png"/>
+  <img align="center" width="200" src="https://raw.githubusercontent.com/manuchidev/manuchidev/main/resources/img/manu_ia.png"/>
   <h1 align="center">¡Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">! Soy Manuel Chillón </h1>
 </p>
 
