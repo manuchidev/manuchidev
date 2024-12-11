@@ -4,8 +4,8 @@
 name: Node.js CI
 
 on:
-  schedule:
-    - cron: "0 */2 * * *" # En el minuto 0 cada 2h (0 */2 * * *)
+  #schedule:
+   # - cron: "0 */2 * * *" # En el minuto 0 cada 2h (0 */2 * * *)
 
 jobs:
   build:
