@@ -75,7 +75,7 @@
 
 <!-- Contenedor para las imágenes -->
 <p align="center">
-  <img alt="streak" height="200px"  src="https://github-readme-streak-stats.herokuapp.com?user=manuchidev&theme=algolia&date_format=M%20j%5B%2C%20Y%5D" />
+  <img alt="streak" height="200px" src="https://github-readme-streak-stats.herokuapp.com?user=manuchidev&theme=algolia&date_format=M%20j%5B%2C%20Y%5D" />
   <img alt="my stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=manuchidev&theme=algolia&show_icons=true" />
   <img alt="top langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuchidev&theme=algolia&layout=compact" />
 </p>
