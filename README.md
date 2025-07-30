@@ -69,18 +69,6 @@
 
 <br>
 
-<h2 align="center">Estadísticas GitHub 📊</h2>
-
-<br>
-
-<!-- Contenedor para las imágenes -->
-<p align="center">
-  <img alt="top langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuchidev&theme=algolia&layout=compact" />
-  <img alt="my stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=manuchidev&theme=algolia&show_icons=true" />
-</p>
-
-<br>
-
 <h2 align="center">Contacta conmigo 📫</h2>
 
 <br>
@@ -89,18 +77,3 @@
   <a href="https://www.linkedin.com/in/manuchidev/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="@manuchidev" title="@manuchidev"></a>
   <a href="mailto:manuelchillon.dev@gmail.com" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/apple-mail.png" alt="manuelchillon.dev@gmail.com" title="manuelchillon.dev@gmail.com"></a>
 </p>
-
-
-<br>
-
-<br>
-
-<!--Contador Visitas Perfil-->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=manuchidev&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Manuchidev" style="padding-right:20px;" />
-</p>
-
-
----
-
-Última edición: 11/12/2024
